@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Practical4"
+rootProject.name = "GitConflictDemo-Jiangmen"
 include(":app")
  
